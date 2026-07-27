@@ -43,7 +43,6 @@ Currently expanding my skills in SQL, Excel, Power BI, and Python while building
 
 - Advanced SQL
 - Power BI
-- Python for Data Analysis
 - Data Storytelling
 
 ---
